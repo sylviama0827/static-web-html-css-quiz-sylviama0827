@@ -31,6 +31,8 @@ header h1 {
 .desc {
   display: block;
   margin: 1px 4px;
+  padding: 4px;
+  text-align: justify;
 }
 
 /* The "Available" part */
